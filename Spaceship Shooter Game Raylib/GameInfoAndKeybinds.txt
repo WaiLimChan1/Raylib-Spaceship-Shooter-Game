@@ -1,0 +1,8 @@
+Game Description
+Avoid and shoot red asteroids. Orange and green asteroids are good.
+The longer you survive, the faster and more asteroids there will be.
+
+Keybinds
+WASD to move your spaceship
+F to fire
+Space to play again
